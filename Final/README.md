@@ -1,7 +1,7 @@
 ## **1\. Project**
 
 *   **Title**: Physical Pomodoro Timer
-*   **Description**: The Physical Pomodoro Timer is a device that helps you concentrate on work and study. It consists of two parts: a wearable device with a motion sensor that detects your consistent working or studying, and the Physical Pomodoro Timer itself, which displays how much time you are focused on.
+*   **Description**: The Physical Pomodoro Timer is a device that helps you concentrate on work and study. It consists of two parts: a wearable device with a motion sensor that detects your consistent working or studying, and the Physical Pomodoro Timer itself, the stepper motor which displays how much time you are focused on, the button can reset the focus cycle.
 *   **Sketch**: 
 
 ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/e1ad0ce70774fa232ec423c8ae58eb8e8feec0369708e944.png)
