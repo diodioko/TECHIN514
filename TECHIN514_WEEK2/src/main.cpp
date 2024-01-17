@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
-const int analogPin = 18; // Change to your ESP32's analog pin number
+const int analogPin = A1; // Change to your ESP32's analog pin number
 
 void setup() {
   Serial.begin(115200); // Start the serial communication
