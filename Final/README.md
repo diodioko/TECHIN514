@@ -9,10 +9,12 @@
 ## **2.Sensor Device**
 
 *   **Components**: Accelerometer sensor（MPU-6050）, ESP32S3, OLED Display, Battery
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/1a4c69fc0762759dce83a0a6dd07375222a5742ed5ad1b41.png)
 
 ## **3.Display Device**
 
 *   **Components**: x27 Stepper motor, Button,  ESP32S3
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/89f95af9cd4f89f71ce9560298b3fc87dc440c5b86066257.png)
 
 ## **4.System Architecture**
 
