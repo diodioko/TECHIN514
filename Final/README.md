@@ -18,4 +18,4 @@
 
 ## **4.System Architecture**
 
-![](assets/assets4.jpg)
+![](assets/assets4.png)
